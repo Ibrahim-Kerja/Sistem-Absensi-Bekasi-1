@@ -1,0 +1,16 @@
+{
+  "name": "Sistem Masuk Kerja Bekasi 1",
+  "short_name": "Absensi Bekasi 1",
+  "description": "Sistem Presensi, Istirahat Fleksibel, Olahraga & Rekap Kepatuhan Karyawan Bekasi 1",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f8fafc",
+  "theme_color": "#1e3a8a",
+  "icons": [
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/3135/3135715.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
